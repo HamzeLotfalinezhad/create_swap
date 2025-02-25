@@ -10,7 +10,8 @@ create_swap is a simple Go-based tool that allows you to create a swap file on a
 ✅ Simple and lightweight
 
 📦 Installation
-🔹 Option 1: Clone and Build (Recommended)
+
+Option 1: Clone and Build (Recommended)
 If you have Go installed, you can clone the repository and build the binary yourself:
 
 git clone https://github.com/HamzeLotfalinezhad/create_swap.git
