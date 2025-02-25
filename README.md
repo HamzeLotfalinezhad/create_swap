@@ -1,6 +1,7 @@
 Create Swap - Simple Swap File Creator for Linux
+
 📌 Overview
-create_swap is a simple Go-based tool that allows you to create a swap file on a Linux system with a single command. If your VPS or server has low RAM, using swap memory can help prevent crashes due to memory exhaustion.
+create_swap is a simple Go-based tool that allows you to create a swap file on a Linux system with a single command.
 
 🚀 Features
 ✅ Create a swap file of a user-specified size
